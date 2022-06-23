@@ -1,0 +1,3 @@
+*tsc (el nombre del archivo.ts): lo que hace este comando es convertir nuestro codigo ts a codigo js.
+*tsc -w (el nombre del archivo.ts): lo que hace este comando es compilar nuestro codigo a js cada vez que haya un cambio en el archivo.
+*tsc -w *ts: vigila todos nuestro archivos.ts para compilarlo a js cuando se realize un cambio.

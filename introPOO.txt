@@ -1,0 +1,2 @@
+¿Que es la programación orientada a objetos?
+-Es un forma de programar, que nos permite estructurar mucho mejor nuestro codigo.

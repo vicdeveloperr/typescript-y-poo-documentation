@@ -1,0 +1,6 @@
+*¿Que es typescript?
+    -Typescript es un superset de javascript (Un superset es un lenguaje de programación que se escribe sobre otro). 
+*Características de Typescript
+    -Es 85% codigo javascript.
+    -Tiene un tipado fuerte es decir: No se permiten violaciones de los tipos de datos, es decir, dado el valor de una variable de un tipo concreto de dato, no se puede usar como si fuera de otro tipo distinto a menos que se haga una conversión.
+    -Este es el lenguaje que se utiliza para trabajar dentro de angular.
